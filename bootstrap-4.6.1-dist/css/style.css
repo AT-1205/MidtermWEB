@@ -1,0 +1,77 @@
+
+@media only screen and (max-width: 768px) {
+	
+    img {
+    	margin: auto;
+    	width: 100%;
+    }
+    [class*="col-"] {
+    	width: 100%;
+    }
+    #about {
+    	font-style: initial;
+    	background-color: #b39576;
+    }
+    #interests {
+	background-color: #b39576;
+	color: white;
+	font-family: serif;
+	}
+	#video {
+	width: 100%
+	}
+	.block1 {
+	background-color: #c3d5e8;
+	background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
+   }
+
+}
+
+
+
+.about {
+	font-style: initial;
+	background-color: #b39576;
+	background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    }
+
+	
+
+
+#mainPic {
+	width: 30%;
+	margin-left: 50%;
+}
+
+#interests {
+	background-color: #b39576;
+	margin: 20px;
+	color: white;
+	font-family: serif;
+}
+
+.align {
+	text-align: center;
+}
+
+.pos {
+	position: absolute;
+}
+
+#block1 {
+	background-color: #c3d5e8;
+	background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
+}
+
+#video {
+	width: 560px;
+	height: 315px;
+}
+
+#footer {
+	border-style: dotted;
+}
+
+
+
+
